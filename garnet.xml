@@ -12,10 +12,10 @@
 
 
     <!-- Device -->
-    <project name="android_device_xiaomi_garnet" path="device/xiaomi/garnet" remote="royw" revision="matrix-oneplus-dolby" />
+    <project name="android_device_xiaomi_garnet" path="device/xiaomi/garnet" remote="royw" revision="matrix" />
 
     <!-- Vendor -->
-    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="royw" revision="matrix-oneplus-dolby" />
+    <project name="android_vendor_xiaomi_garnet" path="vendor/xiaomi/garnet" remote="royw" revision="matrix" />
 
     <!-- Kernel -->
     <project name="android_device_xiaomi_garnet-prebuilt" path="device/xiaomi/garnet-prebuilt" remote="royw" revision="udc" />
@@ -24,5 +24,4 @@
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="royw" revision="lineage-21" />
     <project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="royw" revision="lineage-21" />
     <project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" remote="github" revision="main" />
-    <project name="hardware_dolby_oneplus" path="hardware/dolby" remote="royw" revision="A13" />
 </manifest>

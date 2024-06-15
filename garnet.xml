@@ -23,5 +23,6 @@
     <project name="proprietary_vendor_xiaomi_garnet-miuicamera" path="vendor/xiaomi/garnet-miuicamera" remote="royw" revision="lineage-21" />
     <project name="Chaitanyakm/vendor_bcr" path="vendor/bcr" remote="github" revision="main" />
     <project name="hardware_dolby_oneplus" path="hardware/dolby" remote="royw" revision="A13" />
+    <project name="ImSpiDy/android_vendor_lawnchair" path="vendor/lawnchair" remote="github" revision="14" />
 
 </manifest>
